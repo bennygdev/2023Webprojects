@@ -1,16 +1,17 @@
 # 2023Webprojects
 Throughout the year of 2023, multiple web projects by me will be shown here.
 
+Live demo for all the projects is here: WIP
 # Table of contents
-WIP
+* [Random Name Generator](#RandomNameGenerator)
 <br>
 
 # Description
-WIP
-
+Will be working on a few projects this year, and when they're finished and finalized, they will be shown here. This repository showcases multiple technologies used such as React, Node and more.
 <br>
 
 # RandomNameGenerator
 RandomNameGenerator is a website developed with Webpack and a node package 'project-name-generator' used.
-Description WIP
-Basic functionality for now, after cloning the files, navigate to the file directory and run ```npm i```. To generate the files required to run, run ```npm run build```, then you can proceed to start up the server by running ```npm run dev```, or just locally host it using the visual studio code live server extension on dist/index.html.
+![image](https://user-images.githubusercontent.com/39120147/215515573-601cd210-b33b-4da8-9061-23786f83b37e.png)
+It generates a random name with a click of a button. You have various settings to choose from to decide on how you want the name to be genereated. This is mainly developing using Webpack and Node, as well as BabelJS to ensure compatatiblity with older browsers. This is friendly for all views (Web, Tablet, Mobile). <br>
+More about the website can be found [here](https://github.com/bennygdev/2023Webprojects/tree/master/RandomNameGenerator)
