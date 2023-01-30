@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+:root{
+    --primary-color: #42adf5;
+    --whiteBG: #FFFFFF;
+    --answer-text: #DAA520;
+}
+
+body{
+    background-color: var(--primary-color);
+}
+
+.checkboxWrapper{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    font-family: 'Roboto';
+    font-size: 2vh;
+}
+
+h1{
+    font-family: 'Roboto';
+}
+
+p{
+    font-family: 'Roboto';
+    font-size: 2vh;
+}
+
+.nameBtn{
+    width: 50vw;
+    height: 7vh;
+    font-family: 'Roboto';
+    font-size: 3vh;
+}
+
+.checkboxWrapper label{
+    white-space: nowrap;
+}
+
+.checkboxWrapper input[type="checkbox"] {
+    width: 2.5vh;
+    height: 2.5vh;
+    vertical-align: middle;
+}
+
+.numofwords input[type="number"] {
+    width: 50px;
+    -moz-appearance: textfield;
+}
+
+.answer{
+    color: var(--answer-text)
+}
+
+/* Hide arrow controls for number input for Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .checkboxWrapper {
+      grid-template-columns: 1fr;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .nameBtn{
+        font-size: 2vh;
+    }
+}
