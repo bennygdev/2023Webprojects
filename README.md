@@ -6,7 +6,8 @@ Live demo for all the projects is here: WIP
 * [Random Name Generator](#RandomNameGenerator)
 
 # Description
-Will be working on a few projects this year, and when they're finished and finalized, they will be shown here. This repository showcases multiple technologies used such as React, Node and more.
+Will be working on a few projects this year, and when they're finished and finalized, they will be shown here. This repository showcases multiple technologies used such as React, Node and more. <br>
+Demo is hosted at: https://bennygoh.tk/2023Webprojects
 <br>
 
 # RandomNameGenerator
