@@ -40,9 +40,9 @@ function generateName() {
           result += word[0].toUpperCase() + word.slice(1);
         }
         answer.innerHTML = result;
-      } else {
-        answer.innerHTML = generate(options)[mode];
-      }
+        } else {
+            answer.innerHTML = generate(options)[mode];
+        }
     }      
 
 export default generateName
