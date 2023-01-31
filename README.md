@@ -1,13 +1,12 @@
 # 2023Webprojects
 Throughout the year of 2023, multiple web projects by me will be shown here.
 
-Live demo for all the projects is here: WIP
+Live demo for all the projects is here: https://bennygoh.tk/2023Webprojects
 # Table of contents
 * [Random Name Generator](#RandomNameGenerator)
 
 # Description
 Will be working on a few projects this year, and when they're finished and finalized, they will be shown here. This repository showcases multiple technologies used such as React, Node and more. <br>
-Demo is hosted at: https://bennygoh.tk/2023Webprojects
 <br>
 
 # RandomNameGenerator
