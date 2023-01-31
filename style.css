@@ -1,0 +1,17 @@
+@font-face {
+    font-family: robotoMedium;
+    src: url(fonts/Roboto/Roboto-Medium.ttf);
+}
+
+*{
+    font-family: robotoMedium, sans-serif;
+}
+
+#introDesc{
+    text-align: center;
+}
+
+h1{
+    font-size: 5em;
+    text-align: center;
+}
